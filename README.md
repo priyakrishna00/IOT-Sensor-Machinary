@@ -1,29 +1,19 @@
-# 🚀 Modern React + Vite Web App Starter
+🔧 IOT Sensor Dashboard – React + Vite + Tailwind
 
-A sleek and powerful React + Vite starter project featuring Tailwind CSS for styling, Radix UI for accessible components, and Framer Motion for smooth animations. Includes custom error overlays and editing tools for an enhanced developer experience.
+A responsive and modern dashboard built using React, Vite, and Tailwind CSS, designed to visualize and manage IoT sensor data in real-time. This project demonstrates hands-on experience with frontend technologies commonly used in IoT ecosystems and cloud-connected interfaces.
 
----
+📌 Project Overview
 
-## ✨ Features
+This dashboard serves as a user interface for monitoring IoT sensors — ideal for temperature, humidity, motion, or other environmental data. The architecture is optimized for speed, responsiveness, and scalability, making it suitable for integration with real-time APIs or MQTT brokers.
 
-- ⚡ **Vite** for fast builds and hot module reload
-- 🎨 **Tailwind CSS** with full customization
-- 🧱 **Radix UI** for composable, accessible components
-- 🎥 **Framer Motion** for beautiful animations
-- 🛠️ **Custom error overlays** for runtime and build issues
-- 🧩 Optional **inline editing plugins** for visual editing (in dev mode)
-- 🌐 Fully responsive and accessible
+🚀 Features
 
----
+📊 Live visualization for IoT sensor data
 
-## 📦 Tech Stack
+🎨 Tailwind CSS for responsive and clean design
 
-- **React 18**
-- **Vite 4**
-- **Tailwind CSS 3**
-- **Radix UI**
-- **Framer Motion**
-- **PostCSS + Autoprefixer**
-- **Lucide Icons**
+⚛️ React 18 + Vite for fast dev environment and builds
 
----
+🧩 Radix UI components for accessibility and UI consistency
+
+🧠 Built-in support for custom runtime error tracking (dev tools)
